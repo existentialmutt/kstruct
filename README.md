@@ -37,8 +37,8 @@ barrel.shoot! # => :salmon
 barrel.shoot! # => :trout
 barrel.shoot! # => nil
 
-barrel.fish = [:sweedish]
-barrel.fish # => [:sweedish]
+barrel.fish = [:swedish]
+barrel.fish # => [:swedish]
 ```
 
 ## Development
