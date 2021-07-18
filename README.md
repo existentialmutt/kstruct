@@ -1,3 +1,7 @@
+# DEPRECATED
+
+I recommend you use `Struct.new(..., keyword_init: true)` 
+
 # KStruct
 
 KStruct generates lightweight ruby classes with accessor methods and keyword initializers.  It's intended to be used in similar places to the Standard Library's Struct class.
